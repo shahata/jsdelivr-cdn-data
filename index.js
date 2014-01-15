@@ -4,9 +4,9 @@ var semver = require('semver');
 
 var data = module.exports = {};
 
-var cdnjs = require('./external/jsdelivr.json').packages;
+var jsdelivr = require('./external/jsdelivr.json');
 
-cdnjs.forEach(function (item) {
+jsdelivr.forEach(function (item) {
   data[item.name] = {
     versions: item.versions.filter(function (version) {
       return semver.valid(version);
