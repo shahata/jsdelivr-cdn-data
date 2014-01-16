@@ -1,4 +1,4 @@
-# google-cdn-data [![Build Status](https://travis-ci.org/shahata/jsdelivr-cdn-data.png)](https://travis-ci.org/shahata/jsdelivr-cdn-data)
+# jsdelivr-cdn-data [![Build Status](https://travis-ci.org/shahata/jsdelivr-cdn-data.png)](https://travis-ci.org/shahata/jsdelivr-cdn-data)
 
 > [jsDelivr](http://www.jsdelivr.com/) CDN data for [google-cdn](https://github.com/passy/google-cdn).
 
