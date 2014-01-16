@@ -27,7 +27,7 @@ var googlecdn = require('google-cdn');
 
 var bowerConfig = loadJSON('bower.json');
 var markup = '<script src="bower_components/jquery/jquery.js"></script>';
-googlecdn(markup, bowerConfig, {cdn: require('jsDelivr-cdn-data')}, function (err, result) {
+googlecdn(markup, bowerConfig, {cdn: require('jsdelivr-cdn-data')}, function (err, result) {
   if (err) {
     throw err;
   }
