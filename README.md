@@ -7,7 +7,7 @@ app with links to the libraries on jsDelivr.
 
 ## Getting started
 
-Install: `npm install --save-dev google-cdn jsDelivr-cdn-data`
+Install: `npm install --save-dev google-cdn jsdelivr-cdn-data`
 
 ### Example
 
