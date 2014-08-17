@@ -4,7 +4,8 @@
   "description": "jsDelivr CDN Data for google-cdn",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "prepublish": "./update.sh"
   },
   "repository": {
     "type": "git",
