@@ -62,7 +62,6 @@
     "mainfile": "alasql.min.js",
     "name": "alasql",
     "versions": [
-      "0.2.1",
       "0.2.0",
       "0.1.10",
       "0.1.9"
@@ -102,14 +101,6 @@
     "mainfile": "algoliasearch.helper.min.js",
     "name": "algoliasearch.helper",
     "versions": [
-      "2.4.0",
-      "2.3.6",
-      "2.3.5",
-      "2.3.4",
-      "2.3.3",
-      "2.3.2",
-      "2.3.1",
-      "2.3.0",
       "2.2.0",
       "2.1.2",
       "2.1.1",
@@ -158,7 +149,6 @@
     "mainfile": "alertify.min.js",
     "name": "alertifyjs",
     "versions": [
-      "1.5.0",
       "1.4.1",
       "1.4.0"
     ]
@@ -206,7 +196,6 @@
     "mainfile": "anchor.min.js",
     "name": "anchorjs",
     "versions": [
-      "1.3.0",
       "1.2.1",
       "1.1.1",
       "1.0.1"
@@ -223,7 +212,6 @@
     "mainfile": "angular-material-icons.min.js",
     "name": "angular-material-icons",
     "versions": [
-      "0.6.0",
       "0.5.0",
       "0.4.0",
       "0.3.0"
@@ -233,11 +221,6 @@
     "mainfile": "algoliasearch.min.js",
     "name": "algoliasearch",
     "versions": [
-      "3.8.1",
-      "3.8.0",
-      "3.7.8",
-      "3.7.7",
-      "3.7.6",
       "3.7.5",
       "3.7.4",
       "3.7.3",
@@ -325,10 +308,6 @@
     "mainfile": "angucomplete-alt.min.js",
     "name": "angular.angucomplete-alt",
     "versions": [
-      "1.2.3",
-      "1.2.2",
-      "1.2.1",
-      "1.1.1",
       "1.1.0",
       "1.0.7",
       "1.0.6",
@@ -390,7 +369,6 @@
     "mainfile": "ui-bootstrap.min.js",
     "name": "angular.bootstrap",
     "versions": [
-      "0.13.3",
       "0.13.0",
       "0.12.1",
       "0.12.0",
@@ -517,19 +495,6 @@
     "mainfile": "ng-table.js",
     "name": "angular.ngtable",
     "versions": [
-      "1.0.0-beta.5",
-      "1.0.0-beta.4",
-      "1.0.0-beta.1",
-      "1.0.0-alpha",
-      "1.0.0-alpha.8",
-      "1.0.0-alpha.2",
-      "1.0.0-alpha.6",
-      "1.0.0-alpha.5",
-      "1.0.0-alpha.4",
-      "1.0.0-alpha.3",
-      "1.0.0-alpha.1",
-      "1.0.0-alpha.7",
-      "0.8.3",
       "0.8.2",
       "0.8.1",
       "0.8.0",
@@ -601,8 +566,6 @@
     "mainfile": "pusher-angular.min.js",
     "name": "angular.pusher",
     "versions": [
-      "0.1.8",
-      "0.1.7",
       "0.1.6",
       "0.1.5",
       "0.1.4",
@@ -615,7 +578,6 @@
     "mainfile": "angular-initial-value.min.js",
     "name": "angular.initial-value",
     "versions": [
-      "0.0.2",
       "0.0.1"
     ]
   },
@@ -630,9 +592,6 @@
     "mainfile": "textAngular.min.js",
     "name": "angular.textangular",
     "versions": [
-      "1.4.6",
-      "1.4.5",
-      "1.4.4",
       "1.4.3",
       "1.4.2",
       "1.4.1",
@@ -656,8 +615,6 @@
     "mainfile": "angular-summernote.min.js",
     "name": "angular.summernote",
     "versions": [
-      "0.5.0",
-      "0.4.1",
       "0.4.0"
     ]
   },
@@ -672,7 +629,6 @@
     "mainfile": "angular-translate.min.js",
     "name": "angular.translate",
     "versions": [
-      "2.8.0",
       "2.7.2",
       "2.7.1",
       "2.7.0",
@@ -692,16 +648,11 @@
     "mainfile": "ui-grid.min.js",
     "name": "angular.ui-grid",
     "versions": [
-      "3.0.6",
-      "3.0.5",
-      "3.0.4",
-      "3.0.3",
-      "3.0.2",
       "3.0.1",
-      "3.0.0-rc.2-gf598dc3",
       "3.0.0-rc.22",
       "3.0.0-rc.21",
       "3.0.0-rc.20",
+      "3.0.0-rc.2-gf598dc3",
       "3.0.0-rc.19"
     ]
   },
@@ -717,8 +668,6 @@
     "mainfile": "angular-wizard.min.js",
     "name": "angular.wizard",
     "versions": [
-      "0.5.5",
-      "0.5.4",
       "0.5.3",
       "0.5.2",
       "0.5.1",
@@ -761,8 +710,6 @@
     "mainfile": "angular-strap.min.js",
     "name": "angular.strap",
     "versions": [
-      "2.3.3",
-      "2.3.2",
       "2.3.1",
       "2.3.0",
       "2.2.4",
@@ -784,7 +731,6 @@
     "mainfile": "angular-xml.min.js",
     "name": "angular.xml",
     "versions": [
-      "2.2.1",
       "2.1.1",
       "2.1.0",
       "2.0.1",
@@ -820,9 +766,6 @@
     "mainfile": "angular-moment.min.js",
     "name": "angular.moment",
     "versions": [
-      "1.0.0-beta.2",
-      "1.0.0-beta.1",
-      "0.10.3",
       "0.10.2",
       "0.10.1",
       "0.10.0",
@@ -928,7 +871,6 @@
     "mainfile": "appenlight-client.min.js",
     "name": "appenlight",
     "versions": [
-      "0.3.0",
       "0.2.0"
     ]
   },
@@ -963,7 +905,6 @@
     "mainfile": "async.js",
     "name": "async",
     "versions": [
-      "1.4.2",
       "1.4.1",
       "1.4.0",
       "1.3.0",
@@ -1045,8 +986,6 @@
     "mainfile": "angular.min.js",
     "name": "angularjs",
     "versions": [
-      "1.4.6",
-      "1.4.5",
       "1.4.2",
       "1.4.1",
       "1.4.0",
@@ -1125,7 +1064,6 @@
     "mainfile": "babylon.min.js",
     "name": "babylonjs",
     "versions": [
-      "2.2",
       "2.1",
       "2.1-beta",
       "2.0",
@@ -1158,10 +1096,6 @@
     "mainfile": "browser-polyfill.js",
     "name": "babel",
     "versions": [
-      "5.8.25",
-      "5.8.24",
-      "5.8.23",
-      "5.8.22",
       "5.8.21",
       "5.8.20",
       "5.8.19",
@@ -1326,7 +1260,6 @@
     "mainfile": "backbone.marionette.min.js",
     "name": "backbone.marionette",
     "versions": [
-      "2.4.3",
       "2.4.2",
       "2.2.0",
       "2.1.0",
@@ -1346,8 +1279,6 @@
     "mainfile": "backbone.radio.min.js",
     "name": "backbone.radio",
     "versions": [
-      "1.0.2",
-      "1.0.1",
       "1.0.0",
       "0.9.1",
       "0.9.0",
@@ -1391,8 +1322,6 @@
     "mainfile": "backbone-min.js",
     "name": "backbonejs",
     "versions": [
-      "1.2.3",
-      "1.2.2",
       "1.2.1",
       "1.2.0",
       "1.1.2",
@@ -1536,7 +1465,6 @@
     "mainfile": "bigscreen.min.js",
     "name": "bigscreen",
     "versions": [
-      "2.0.5",
       "2.0.4",
       "2.0.2",
       "2.0.0"
@@ -1578,8 +1506,6 @@
     "mainfile": "bluebird.min.js",
     "name": "bluebird",
     "versions": [
-      "2.10.1",
-      "2.10.0",
       "2.9.34",
       "2.9.33",
       "2.9.32",
@@ -1655,7 +1581,6 @@
     "mainfile": "blazy.min.js",
     "name": "blazy",
     "versions": [
-      "1.4.0",
       "1.3.1",
       "1.2.1",
       "1.2.0"
@@ -1682,7 +1607,6 @@
     "mainfile": "bootstrap-social.css",
     "name": "bootstrap-social",
     "versions": [
-      "4.10.1",
       "4.3.0",
       "4.2.1"
     ]
@@ -1720,8 +1644,6 @@
     "mainfile": "jquery.bootstrap-autohidingnavbar.min.js",
     "name": "bootstrap.autohidingnavbar",
     "versions": [
-      "1.0.4",
-      "1.0.3",
       "1.0.2",
       "1.0.1",
       "1.0.0"
@@ -1754,7 +1676,6 @@
     "mainfile": "js/bootstrap-datetimepicker.min.js",
     "name": "bootstrap.datetimepicker",
     "versions": [
-      "4.17.37",
       "4.15.35",
       "4.7.14",
       "3.0.0",
@@ -1779,10 +1700,6 @@
     "mainfile": "daterangepicker.js",
     "name": "bootstrap.daterangepicker",
     "versions": [
-      "2.1.11",
-      "2.0.10",
-      "2.0.9",
-      "2.0.8",
       "2.0.7",
       "2.0.6",
       "2.0.5",
@@ -1860,7 +1777,6 @@
     "mainfile": "bootstrap-native.min.js",
     "name": "bootstrap.native",
     "versions": [
-      "0.9.8",
       "0.9.7",
       "0.9.6",
       "0.9.5",
@@ -2137,7 +2053,6 @@
     "mainfile": "canadarm.min.js",
     "name": "canadarm",
     "versions": [
-      "1.0.1",
       "1.0.0"
     ]
   },
@@ -2198,21 +2113,13 @@
     "mainfile": "",
     "name": "bootswatch",
     "versions": [
-      "3.3.5",
-      "3.3.4",
       "3.3.2",
-      "3.3.1",
       "3.3.1.2",
-      "3.3.0",
-      "3.2.0",
       "3.2.0.1",
       "3.1.1",
       "3.1.1.1",
       "3.1.0",
       "3.0.3b",
-      "3.0.3",
-      "3.0.2",
-      "3.0.1",
       "3.0.0"
     ]
   },
@@ -2593,9 +2500,6 @@
     "mainfile": "level-selector.min.js",
     "name": "clappr.level-selector",
     "versions": [
-      "0.0.9",
-      "0.0.8",
-      "0.0.7",
       "0.0.6",
       "0.0.5",
       "0.0.4",
@@ -2697,8 +2601,6 @@
     "mainfile": "clusterize.min.js",
     "name": "clusterize.js",
     "versions": [
-      "0.12.0",
-      "0.11.0",
       "0.10.0",
       "0.9.0",
       "0.8.2",
@@ -2782,20 +2684,6 @@
     "mainfile": "clappr.min.js",
     "name": "clappr",
     "versions": [
-      "0.2.13",
-      "0.2.12",
-      "0.2.11",
-      "0.2.10",
-      "0.2.9",
-      "0.2.8",
-      "0.2.7",
-      "0.2.6",
-      "0.2.5",
-      "0.2.4",
-      "0.2.3",
-      "0.2.2",
-      "0.2.1",
-      "0.1.13",
       "0.1.12",
       "0.1.11",
       "0.1.10",
@@ -2882,9 +2770,6 @@
     "mainfile": "cookiebar-latest.js",
     "name": "cookie-bar",
     "versions": [
-      "1.5.5",
-      "1.5.4",
-      "1.5.3",
       "1.5.2",
       "1.5.1",
       "1.5.0",
@@ -2920,7 +2805,6 @@
     "mainfile": "countUp.min.js",
     "name": "countupjs",
     "versions": [
-      "1.6.0",
       "1.5.3",
       "1.1.0"
     ]
@@ -2936,12 +2820,6 @@
     "mainfile": "core.min.js",
     "name": "core-js",
     "versions": [
-      "1.2.0",
-      "1.1.4",
-      "1.1.3",
-      "1.1.2",
-      "1.1.1",
-      "1.1.0",
       "1.0.1",
       "1.0.0",
       "0.9.18",
@@ -2973,7 +2851,6 @@
     "mainfile": "cookies.min.js",
     "name": "cookies.js",
     "versions": [
-      "1.2.2",
       "1.2.1",
       "1.2.0",
       "1.1.0",
@@ -3184,7 +3061,6 @@
     "mainfile": "cyber-font.min.css",
     "name": "cyber-font",
     "versions": [
-      "3.0.3",
       "3.0.2",
       "3.0.1",
       "3.0.0",
@@ -3369,7 +3245,6 @@
     "mainfile": "dna.min.js",
     "name": "dna.js",
     "versions": [
-      "0.4.1",
       "0.4.0",
       "0.3.9",
       "0.3.8"
@@ -3708,32 +3583,26 @@
     "mainfile": "ember.min.js",
     "name": "emberjs",
     "versions": [
-      "2.1.0-beta.4",
-      "2.1.0-beta.3",
-      "2.1.0-beta.2",
-      "2.1.0-beta.1",
-      "2.0.0",
-      "2.0.0-beta.5",
       "2.0.0-beta.4",
       "2.0.0-beta.3",
       "2.0.0-beta.2",
       "2.0.0-beta.1",
+      "1.13.0",
       "1.13.0-beta.2",
       "1.13.0-beta.1",
-      "1.13.0",
       "1.12.0-beta.1",
-      "1.12.0-beta.2",
-      "1.12.0-beta.3",
       "1.12.0",
+      "1.12.0-beta.3",
+      "1.12.0-beta.2",
       "1.11.0",
-      "1.11.0-beta.5",
-      "1.11.0-beta.3",
       "1.11.0-beta.1",
-      "1.11.0-beta.2",
+      "1.11.0-beta.5",
       "1.11.0-beta.4",
+      "1.11.0-beta.3",
+      "1.11.0-beta.2",
       "1.10.0",
-      "1.9.0-beta.1",
       "1.9.0",
+      "1.9.0-beta.1",
       "1.8.1",
       "1.8.0-beta.1",
       "1.8.0-beta.4",
@@ -3744,9 +3613,9 @@
       "1.5.0",
       "1.4.0",
       "1.2.0",
-      "1.0.0rc6.1",
       "1.0.0rc6",
-      "1.0.0rc1"
+      "1.0.0rc1",
+      "1.0.0rc6.1"
     ]
   },
   {
@@ -3784,7 +3653,6 @@
     "mainfile": "es6-promise.min.js",
     "name": "es6-promise",
     "versions": [
-      "3.0.2",
       "2.3.0",
       "1.0.0",
       "0.1.1"
@@ -3794,9 +3662,6 @@
     "mainfile": "es5-shim.min.js",
     "name": "es5.shim",
     "versions": [
-      "4.1.13",
-      "4.1.12",
-      "4.1.11",
       "4.1.10",
       "4.1.9",
       "4.1.8",
@@ -3818,12 +3683,6 @@
     "mainfile": "es6-shim.min.js",
     "name": "es6.shim",
     "versions": [
-      "0.33.6",
-      "0.33.5",
-      "0.33.4",
-      "0.33.3",
-      "0.33.2",
-      "0.33.1",
       "0.33.0",
       "0.32.3",
       "0.13.0"
@@ -3833,8 +3692,6 @@
     "mainfile": "etp.min.js",
     "name": "etp",
     "versions": [
-      "2.0.7-9",
-      "2.0.7-7",
       "2.0.7-5",
       "2.0.7-4",
       "2.0.7-3",
@@ -4070,7 +3927,6 @@
     "mainfile": "flexboxgrid.min.css",
     "name": "flexboxgrid",
     "versions": [
-      "6.3.0",
       "6.2.0",
       "6.1.1",
       "6.1.0",
@@ -4130,8 +3986,6 @@
     "mainfile": "css/flag-icon.min.css",
     "name": "flag-icon-css",
     "versions": [
-      "0.8.2",
-      "0.8.0",
       "0.7.1",
       "0.6.0"
     ]
@@ -4153,7 +4007,6 @@
     "mainfile": "flickity.pkgd.min.js",
     "name": "flickity",
     "versions": [
-      "1.1.1",
       "1.1.0",
       "1.0.2",
       "1.0.1",
@@ -4403,32 +4256,6 @@
     "mainfile": "js/core.js",
     "name": "formstone",
     "versions": [
-      "0.8.18",
-      "0.8.17",
-      "0.8.16",
-      "0.8.15",
-      "0.8.14",
-      "0.8.13",
-      "0.8.12",
-      "0.8.11",
-      "0.8.10",
-      "0.8.9",
-      "0.8.8",
-      "0.8.7",
-      "0.8.6",
-      "0.8.5",
-      "0.8.4",
-      "0.8.3",
-      "0.8.2",
-      "0.8.1",
-      "0.8.0",
-      "0.7.18",
-      "0.7.17",
-      "0.7.16",
-      "0.7.15",
-      "0.7.14",
-      "0.7.13",
-      "0.7.12",
       "0.7.11",
       "0.7.10",
       "0.7.9",
@@ -4482,9 +4309,6 @@
     "mainfile": "js/fuelux.min.js",
     "name": "fuelux",
     "versions": [
-      "3.11.3",
-      "3.11.2",
-      "3.11.1",
       "3.11.0",
       "3.10.0",
       "3.9.1",
@@ -4565,7 +4389,6 @@
     "mainfile": "js/jquery.jqgrid.min.js",
     "name": "free-jqgrid",
     "versions": [
-      "4.9.2",
       "4.9.1",
       "4.9.0",
       "4.9.0-rc1",
@@ -4841,10 +4664,6 @@
     "mainfile": "handlebars.min.js",
     "name": "handlebarsjs",
     "versions": [
-      "4.0.3",
-      "4.0.2",
-      "4.0.1",
-      "4.0.0",
       "3.0.3",
       "3.0.2",
       "3.0.0",
@@ -4923,7 +4742,6 @@
     "mainfile": "highmaps.js",
     "name": "highmaps",
     "versions": [
-      "1.1.8",
       "1.1.7",
       "1.1.6",
       "1.1.5",
@@ -4939,7 +4757,6 @@
     "mainfile": "highcharts.js",
     "name": "highcharts",
     "versions": [
-      "4.1.8",
       "4.1.7",
       "4.1.6",
       "4.1.5",
@@ -4976,7 +4793,6 @@
     "mainfile": "highstock.js",
     "name": "highstock",
     "versions": [
-      "2.1.8",
       "2.1.7",
       "2.1.6",
       "2.1.5",
@@ -4996,7 +4812,6 @@
     "mainfile": "hint.min.css",
     "name": "hint.css",
     "versions": [
-      "1.3.5",
       "1.3.2",
       "1.3.1",
       "1.3.0",
@@ -5016,8 +4831,6 @@
     "mainfile": "handsontable.full.min.js",
     "name": "handsontable",
     "versions": [
-      "0.18.0",
-      "0.17.0",
       "0.16.1",
       "0.16.0",
       "0.15.1",
@@ -5072,7 +4885,6 @@
     "mainfile": "holder.js",
     "name": "holder",
     "versions": [
-      "2.8.2",
       "2.8.1",
       "2.8.0",
       "2.7.1",
@@ -5091,7 +4903,6 @@
     "mainfile": "highlight.min.js",
     "name": "highlight.js",
     "versions": [
-      "8.8.0",
       "8.7.0",
       "8.6.0",
       "8.5.0",
@@ -5267,7 +5078,6 @@
     "mainfile": "immutable.min.js",
     "name": "immutable.js",
     "versions": [
-      "3.7.5",
       "3.7.4",
       "3.7.3",
       "3.7.2",
@@ -5332,8 +5142,6 @@
     "mainfile": "intro.min.js",
     "name": "intro.js",
     "versions": [
-      "1.1.1",
-      "1.1.0",
       "1.0.0",
       "0.9.0",
       "0.6.0",
@@ -5351,7 +5159,6 @@
     "mainfile": "interact.min.js",
     "name": "interact.js",
     "versions": [
-      "1.2.5",
       "1.2.4",
       "1.2.3",
       "1.2.2",
@@ -5421,7 +5228,6 @@
     "mainfile": "isotope.pkgd.min.js",
     "name": "isotope",
     "versions": [
-      "2.2.2",
       "2.2.1",
       "2.2.0",
       "2.0.0",
@@ -5485,7 +5291,6 @@
     "mainfile": "jquery.jcarousel.min.js",
     "name": "jcarousel",
     "versions": [
-      "0.3.4",
       "0.3.3",
       "0.3rc1",
       "0.3b4",
@@ -5499,7 +5304,6 @@
     "mainfile": "jdenticon.min.js",
     "name": "jdenticon",
     "versions": [
-      "1.3.0",
       "1.2.0",
       "1.1.0"
     ]
@@ -5681,7 +5485,6 @@
     "mainfile": "ajaxify.min.js",
     "name": "jquery.ajaxify",
     "versions": [
-      "5.7.5",
       "5.7.0",
       "5.6.0",
       "5.5.0",
@@ -5789,11 +5592,6 @@
     "mainfile": "autosize.min.js",
     "name": "jquery.autosize",
     "versions": [
-      "3.0.13",
-      "3.0.12",
-      "3.0.11",
-      "3.0.10",
-      "3.0.9",
       "3.0.8",
       "3.0.6",
       "3.0.5",
@@ -5885,7 +5683,6 @@
     "mainfile": "jquery.balancetext.min.js",
     "name": "jquery.balancetext",
     "versions": [
-      "1.6.0",
       "1.3.0",
       "1.2.1",
       "0.1"
@@ -6244,7 +6041,6 @@
     "mainfile": "js/jquery.dataTables.min.js",
     "name": "jquery.datatables",
     "versions": [
-      "1.10.9",
       "1.10.4",
       "1.10.2",
       "1.10.1",
@@ -6284,10 +6080,6 @@
     "mainfile": "eliminator-slajdow.jquery.widget.js",
     "name": "jquery.eliminator-slajdow",
     "versions": [
-      "3.1.48",
-      "3.1.47",
-      "3.1.46",
-      "3.1.45",
       "3.1.44",
       "3.1.38",
       "3.1.37",
@@ -6402,7 +6194,6 @@
     "mainfile": "jquery.fancytree-all.min.js",
     "name": "jquery.fancytree",
     "versions": [
-      "2.12.0",
       "2.11.0",
       "2.10.2",
       "2.10.1",
@@ -6463,7 +6254,6 @@
     "mainfile": "jquery.formstyler.min.js",
     "name": "jquery.formstyler",
     "versions": [
-      "1.7.3",
       "1.7.2",
       "1.7.1",
       "1.7.0",
@@ -6580,9 +6370,6 @@
     "mainfile": "jquery.gray.min.js",
     "name": "jquery.gray",
     "versions": [
-      "1.4.5",
-      "1.4.4",
-      "1.4.3",
       "1.4.2",
       "1.4.1",
       "1.4.0",
@@ -6672,7 +6459,6 @@
     "name": "jquery.hotkeys",
     "versions": [
       "0.8b",
-      "0.2.0",
       "0.1.0"
     ]
   },
@@ -6717,8 +6503,6 @@
     "mainfile": "js/ion.rangeSlider.min.js",
     "name": "jquery.ion.rangeslider",
     "versions": [
-      "2.1.1",
-      "2.1.0",
       "2.0.13",
       "2.0.12",
       "2.0.11",
@@ -6741,7 +6525,6 @@
     "mainfile": "jstree.min.js",
     "name": "jquery.jstree",
     "versions": [
-      "3.2.1",
       "3.2.0",
       "3.1.1",
       "3.0.0-beta3",
@@ -6924,7 +6707,6 @@
     "mainfile": "jquery.ui-contextmenu.min.js",
     "name": "jquery.ui-contextmenu",
     "versions": [
-      "1.11.0",
       "1.10.0",
       "1.9.0",
       "1.8.2",
@@ -6980,7 +6762,6 @@
     "mainfile": "js-data-angular.min.js",
     "name": "js-data-angular",
     "versions": [
-      "3.1.0",
       "3.0.0",
       "3.0.0-rc.1",
       "3.0.0-beta.2",
@@ -7051,7 +6832,6 @@
     "mainfile": "js-data.min.js",
     "name": "js-data",
     "versions": [
-      "2.4.0",
       "2.3.0",
       "2.2.3",
       "2.2.2",
@@ -7114,10 +6894,6 @@
     "mainfile": "jstat.min.js",
     "name": "jstat",
     "versions": [
-      "1.4.3",
-      "1.4.2",
-      "1.4.1",
-      "1.4.0",
       "1.3.0",
       "1.2.1",
       "1.2.0",
@@ -7143,8 +6919,6 @@
     "mainfile": "juicy-tile-list.html",
     "name": "juicy-tile-list",
     "versions": [
-      "1.0.0",
-      "0.3.2",
       "0.3.1",
       "0.3.0",
       "0.2.2",
@@ -7161,7 +6935,6 @@
     "mainfile": "kakao.min.js",
     "name": "kakao.js",
     "versions": [
-      "1.0.46",
       "1.0.44",
       "1.0.37",
       "1.0.25",
@@ -7181,7 +6954,6 @@
     "mainfile": "keen.min.js",
     "name": "keen.js",
     "versions": [
-      "3.2.7",
       "3.2.6",
       "3.2.5",
       "3.2.4",
@@ -7192,7 +6964,6 @@
     "mainfile": "katex.min.js",
     "name": "katex",
     "versions": [
-      "0.5.1",
       "0.5.0",
       "0.4.3",
       "0.3.0",
@@ -7213,7 +6984,6 @@
     "mainfile": "knacss.css",
     "name": "knacss",
     "versions": [
-      "4.3.4",
       "4.3.3",
       "4.3.2",
       "4.3.1",
@@ -7253,7 +7023,6 @@
     "mainfile": "esri-leaflet.js",
     "name": "leaflet.esri",
     "versions": [
-      "2.0.0-beta.6",
       "2.0.0-beta.5",
       "2.0.0-beta.4",
       "1.0.0",
@@ -7278,10 +7047,6 @@
     "mainfile": "lazysizes.min.js",
     "name": "lazysizes",
     "versions": [
-      "1.2.3-rc1",
-      "1.2.2",
-      "1.2.1",
-      "1.2.0",
       "1.1.5",
       "1.1.5-rc1",
       "1.1.4",
@@ -7305,9 +7070,6 @@
     "mainfile": "localforage.min.js",
     "name": "localforage",
     "versions": [
-      "1.2.10",
-      "1.2.9",
-      "1.2.8",
       "1.2.7",
       "1.2.6",
       "1.2.5",
@@ -7366,7 +7128,6 @@
     "mainfile": "lunr.min.js",
     "name": "lunr",
     "versions": [
-      "0.5.12",
       "0.5.11",
       "0.5.10",
       "0.5.9",
@@ -7380,11 +7141,6 @@
     "mainfile": "mask.min.js",
     "name": "maskjs",
     "versions": [
-      "0.54.11",
-      "0.54.9",
-      "0.53.8",
-      "0.53.7",
-      "0.52.4",
       "0.52.3",
       "0.52.2",
       "0.52.1",
@@ -7437,7 +7193,6 @@
     "mainfile": "masonry.pkgd.min.js",
     "name": "masonry",
     "versions": [
-      "3.3.2",
       "3.3.1",
       "3.3.0",
       "3.1.5",
@@ -7454,13 +7209,6 @@
     "mainfile": "js/medium-editor.min.js",
     "name": "medium-editor",
     "versions": [
-      "5.8.2",
-      "5.8.1",
-      "5.8.0",
-      "5.7.0",
-      "5.6.3",
-      "5.6.2",
-      "5.6.1",
       "5.6.0",
       "5.5.4",
       "5.5.3",
@@ -7484,7 +7232,6 @@
     "mainfile": "mediaelement.min.js",
     "name": "mediaelement",
     "versions": [
-      "2.18.1",
       "2.18.0",
       "2.17.0",
       "2.16.4",
@@ -7533,9 +7280,6 @@
     "mainfile": "mota.min.js",
     "name": "motajs",
     "versions": [
-      "0.10.0",
-      "0.9.2",
-      "0.9.1",
       "0.9.0",
       "0.8.1",
       "0.8.0",
@@ -7590,10 +7334,6 @@
     "mainfile": "p5.min.js",
     "name": "p5.js",
     "versions": [
-      "0.4.13",
-      "0.4.12",
-      "0.4.11",
-      "0.4.10",
       "0.4.6",
       "0.4.5",
       "0.4.4",
@@ -7655,7 +7395,6 @@
     "mainfile": "paper-full.min.js",
     "name": "paperjs",
     "versions": [
-      "0.9.24",
       "0.9.23",
       "0.9.22",
       "0.9.21",
@@ -7688,7 +7427,6 @@
     "mainfile": "offline.min.js",
     "name": "offline",
     "versions": [
-      "0.7.14",
       "0.7.13",
       "0.4.7"
     ]
@@ -7697,7 +7435,6 @@
     "mainfile": "mobile-detect.min.js",
     "name": "mobile-detect.js",
     "versions": [
-      "1.3.0",
       "1.2.1",
       "1.2.0",
       "1.1.0",
@@ -7725,7 +7462,6 @@
     "mainfile": "parsley.min.js",
     "name": "parsleyjs",
     "versions": [
-      "2.2.0-rc1",
       "2.1.3",
       "2.1.2",
       "2.1.1",
@@ -7754,7 +7490,6 @@
     "mainfile": "phaser.min.js",
     "name": "phaser",
     "versions": [
-      "2.4.3",
       "2.4.2",
       "2.4.1",
       "2.4.0",
@@ -7800,9 +7535,6 @@
     "mainfile": "pouchdb.min.js",
     "name": "pouchdb",
     "versions": [
-      "4.0.3",
-      "4.0.2",
-      "4.0.2-prerelease",
       "4.0.0",
       "3.6.0",
       "3.5.0",
@@ -7837,7 +7569,6 @@
     "mainfile": "picturefill.min.js",
     "name": "picturefill",
     "versions": [
-      "3.0.0-rc1",
       "3.0.0-beta1",
       "3.0.0-alpha1",
       "2.3.1",
@@ -7845,8 +7576,8 @@
       "2.3.0-beta",
       "2.2.0",
       "2.1.0",
-      "2.0.0",
       "2.0.0b",
+      "2.0.0",
       "1.2.1"
     ]
   },
@@ -7870,7 +7601,6 @@
     "mainfile": "puppet.min.js",
     "name": "puppetjs",
     "versions": [
-      "1.3.0",
       "1.2.1",
       "1.2.0",
       "1.1.0",
@@ -7921,7 +7651,6 @@
     "mainfile": "base.js",
     "name": "qoopido.js",
     "versions": [
-      "3.7.4",
       "3.7.3",
       "3.7.2",
       "3.7.1",
@@ -8004,10 +7733,6 @@
     "mainfile": "rangeslider.min.js",
     "name": "rangeslider.js",
     "versions": [
-      "2.0.2",
-      "2.0.1",
-      "2.0.0",
-      "1.3.3",
       "1.3.2",
       "1.2.2",
       "1.2.1",
@@ -8046,9 +7771,6 @@
     "mainfile": "raven.min.js",
     "name": "raven",
     "versions": [
-      "1.1.22",
-      "1.1.21",
-      "1.1.20",
       "1.1.19",
       "1.1.18",
       "1.1.17",
@@ -8084,7 +7806,6 @@
     "mainfile": "riot.min.js",
     "name": "riot",
     "versions": [
-      "2.2.4",
       "2.2.3",
       "2.2.2",
       "2.2.1",
@@ -8108,7 +7829,6 @@
     "mainfile": "react.min.js",
     "name": "react",
     "versions": [
-      "0.14.0-rc1",
       "0.14.0-beta3",
       "0.14.0-beta2",
       "0.14.0-beta1",
@@ -8119,9 +7839,9 @@
       "0.13.2",
       "0.13.1",
       "0.13.0-rc1",
+      "0.13.0-beta.2",
       "0.13.0",
       "0.13.0-rc2",
-      "0.13.0-beta.2",
       "0.12.2",
       "0.12.1",
       "0.12.0-rc1",
@@ -8171,12 +7891,6 @@
     "mainfile": "satellizer.min.js",
     "name": "satellizer",
     "versions": [
-      "0.12.5",
-      "0.12.4",
-      "0.12.3",
-      "0.12.2",
-      "0.12.1",
-      "0.12.0",
       "0.11.3",
       "0.11.2",
       "0.11.1",
@@ -8223,11 +7937,6 @@
     "mainfile": "rx.min.js",
     "name": "rxjs",
     "versions": [
-      "4.0.0",
-      "3.1.2",
-      "3.1.1",
-      "3.1.0",
-      "3.0.1",
       "3.0.0",
       "2.5.3",
       "2.5.2",
@@ -8326,7 +8035,6 @@
     "mainfile": "shepherd.min.js",
     "name": "shepherd",
     "versions": [
-      "1.2.0",
       "1.1.4",
       "1.1.3",
       "0.7.2",
@@ -8352,7 +8060,6 @@
     "mainfile": "showdown.min.js",
     "name": "showdown",
     "versions": [
-      "1.2.3",
       "1.2.2",
       "1.2.1",
       "1.2.0",
@@ -8380,7 +8087,6 @@
     "mainfile": "sly.min.js",
     "name": "sly",
     "versions": [
-      "1.6.1",
       "1.6.0",
       "1.5.1",
       "1.5.0",
@@ -8393,8 +8099,6 @@
     "mainfile": "smooth-scroll.min.js",
     "name": "smooth-scroll",
     "versions": [
-      "7.1.1",
-      "7.1.0",
       "7.0.2",
       "7.0.1",
       "7.0.0",
@@ -8418,8 +8122,6 @@
     "mainfile": "snabbt.min.js",
     "name": "snabbt",
     "versions": [
-      "0.5.8",
-      "0.5.7",
       "0.5.6",
       "0.5.5",
       "0.5.4",
@@ -8437,7 +8139,6 @@
     "mainfile": "Sortable.min.js",
     "name": "sortable",
     "versions": [
-      "1.3.0",
       "1.2.1",
       "1.2.0",
       "1.1.1",
@@ -8474,7 +8175,6 @@
     "mainfile": "spinkit.css",
     "name": "spinkit",
     "versions": [
-      "1.2.2",
       "1.2.1",
       "1.2.0",
       "1.1.0",
@@ -8515,12 +8215,6 @@
     "mainfile": "semantic.min.js",
     "name": "semantic-ui",
     "versions": [
-      "2.1.4",
-      "2.1.3",
-      "2.1.2",
-      "2.1.1",
-      "2.1.0",
-      "2.0.8",
       "2.0.7",
       "2.0.6",
       "2.0.5",
@@ -8623,7 +8317,6 @@
     "mainfile": "svg.min.js",
     "name": "svg.js",
     "versions": [
-      "2.1.0",
       "2.0.5",
       "2.0.4",
       "2.0.3",
@@ -8670,7 +8363,6 @@
     "mainfile": "t3.min.js",
     "name": "t3",
     "versions": [
-      "1.5.1",
       "1.5.0",
       "1.4.1",
       "1.4.0",
@@ -8683,8 +8375,6 @@
     "mainfile": "tauCharts.min.js",
     "name": "taucharts",
     "versions": [
-      "0.5.2",
-      "0.5.1",
       "0.5.0",
       "0.4.9",
       "0.4.8",
@@ -8760,13 +8450,6 @@
     "mainfile": "tubular-bundle.min.js",
     "name": "tubular",
     "versions": [
-      "0.9.29",
-      "0.9.28",
-      "0.9.27",
-      "0.9.26",
-      "0.9.25",
-      "0.9.24",
-      "0.9.23",
       "0.9.22",
       "0.9.21",
       "0.9.20",
@@ -8805,7 +8488,6 @@
     "mainfile": "tweene-all.min.js",
     "name": "tweene",
     "versions": [
-      "0.5.10",
       "0.5.9",
       "0.5.8",
       "0.5.7",
@@ -8839,8 +8521,6 @@
     "mainfile": "u.min.js",
     "name": "u.js",
     "versions": [
-      "0.17.0",
-      "0.16.0",
       "0.15.0",
       "0.14.0",
       "0.13.0",
@@ -8865,7 +8545,6 @@
     "mainfile": "URI.min.js",
     "name": "uri.js",
     "versions": [
-      "1.16.1",
       "1.16.0",
       "1.15.2",
       "1.15.1",
@@ -8886,18 +8565,6 @@
     "mainfile": "vue.min.js",
     "name": "vue",
     "versions": [
-      "1.0.0-alpha.1",
-      "1.0.0-beta.1",
-      "1.0.0-alpha.5",
-      "1.0.0-alpha.4",
-      "1.0.0-alpha.3",
-      "1.0.0-alpha.2",
-      "1.0.0-beta.2",
-      "0.12.16",
-      "0.12.13",
-      "0.12.12",
-      "0.12.11",
-      "0.12.10",
       "0.12.9",
       "0.12.8",
       "0.12.7",
@@ -8912,7 +8579,6 @@
     "mainfile": "vivus.min.js",
     "name": "vivus",
     "versions": [
-      "0.2.3",
       "0.2.2",
       "0.2.1",
       "0.2.0",
@@ -8924,9 +8590,6 @@
     "mainfile": "wavesurfer.min.js",
     "name": "wavesurfer.js",
     "versions": [
-      "1.0.43",
-      "1.0.42",
-      "1.0.41",
       "1.0.30",
       "1.0.29",
       "1.0.28",
@@ -8959,10 +8622,6 @@
     "mainfile": "webcomponents.min.js",
     "name": "webcomponentsjs",
     "versions": [
-      "0.7.14",
-      "0.7.13",
-      "0.7.12",
-      "0.7.11",
       "0.7.10",
       "0.7.9",
       "0.7.8",
@@ -8976,8 +8635,8 @@
       "0.7.0",
       "0.6.1",
       "0.6.0",
-      "0.5.5-rc1",
       "0.5.5",
+      "0.5.5-rc1",
       "0.5.4",
       "0.5.3",
       "0.5.2"
@@ -9014,15 +8673,6 @@
     "mainfile": "webtorrent.min.js",
     "name": "webtorrent",
     "versions": [
-      "0.62.1",
-      "0.62.0",
-      "0.60.1",
-      "0.60.0",
-      "0.59.0",
-      "0.58.0",
-      "0.57.0",
-      "0.56.0",
-      "0.55.1",
       "0.55.0",
       "0.54.3",
       "0.54.1",
@@ -9098,58 +8748,10 @@
     "mainfile": "video.js",
     "name": "videojs",
     "versions": [
-      "5.0.0-rc.23",
-      "5.0.0-rc.98",
-      "5.0.0-rc.97",
-      "5.0.0-rc.96",
-      "5.0.0-rc.94",
-      "5.0.0-rc.93",
-      "5.0.0-rc.92",
-      "5.0.0-rc.91",
-      "5.0.0-rc.90",
-      "5.0.0-rc.9",
-      "5.0.0-rc.89",
-      "5.0.0-rc.86",
-      "5.0.0-rc.85",
-      "5.0.0-rc.84",
-      "5.0.0-rc.83",
-      "5.0.0-rc.82",
-      "5.0.0-rc.81",
-      "5.0.0-rc.80",
-      "5.0.0-rc.79",
-      "5.0.0-rc.78",
-      "5.0.0-rc.77",
-      "5.0.0-rc.76",
-      "5.0.0-rc.75",
-      "5.0.0-rc.74",
-      "5.0.0-rc.73",
-      "5.0.0-rc.72",
-      "5.0.0-rc.71",
-      "5.0.0-rc.70",
+      "5.0.0-30",
       "5.0.0-rc.7",
-      "5.0.0-rc.69",
-      "5.0.0-rc.68",
-      "5.0.0-rc.66",
-      "5.0.0-rc.64",
-      "5.0.0-rc.63",
-      "5.0.0-rc.62",
-      "5.0.0-rc.60",
       "5.0.0-rc.6",
-      "5.0.0-rc.59",
-      "5.0.0-rc.58",
-      "5.0.0-rc.57",
-      "5.0.0-rc.55",
-      "5.0.0-rc.54",
-      "5.0.0-rc.53",
-      "5.0.0-rc.52",
-      "5.0.0-rc.51",
       "5.0.0-rc.5",
-      "5.0.0-rc.49",
-      "5.0.0-rc.48",
-      "5.0.0-rc.47",
-      "5.0.0-rc.46",
-      "5.0.0-rc.44",
-      "5.0.0-rc.43",
       "5.0.0-rc.40",
       "5.0.0-rc.4",
       "5.0.0-rc.39",
@@ -9166,7 +8768,7 @@
       "5.0.0-rc.27",
       "5.0.0-rc.25",
       "5.0.0-rc.24",
-      "5.0.0-rc.99",
+      "5.0.0-rc.23",
       "5.0.0-rc.22",
       "5.0.0-rc.21",
       "5.0.0-rc.20",
@@ -9180,18 +8782,13 @@
       "5.0.0-rc.13",
       "5.0.0-rc.12",
       "5.0.0-rc.11",
-      "5.0.0-rc.104",
-      "5.0.0-rc.103",
-      "5.0.0-rc.102",
-      "5.0.0-rc.101",
-      "5.0.0-rc.100",
       "5.0.0-rc.10",
       "5.0.0-rc.1",
       "5.0.0-34",
       "5.0.0-33",
       "5.0.0-32",
       "5.0.0-31",
-      "5.0.0-30",
+      "5.0.0-rc.9",
       "5.0.0-29",
       "5.0.0-28",
       "5.0.0-27",
@@ -9205,9 +8802,6 @@
       "5.0.0-19",
       "5.0.0-18",
       "5.0.0-17",
-      "4.12.15",
-      "4.12.14",
-      "4.12.13",
       "4.12.12",
       "4.12.11",
       "4.12.10",
@@ -9242,8 +8836,6 @@
     "mainfile": "yasgui.min.js",
     "name": "yasgui",
     "versions": [
-      "1.3.0",
-      "1.2.7",
       "1.2.5",
       "1.2.4",
       "1.2.0",
@@ -9268,8 +8860,6 @@
     "mainfile": "polyfiller.js",
     "name": "webshim",
     "versions": [
-      "1.15.10",
-      "1.15.9",
       "1.15.8",
       "1.15.7",
       "1.15.6",
@@ -9294,7 +8884,6 @@
     "mainfile": "yasqe.min.js",
     "name": "yasqe",
     "versions": [
-      "2.6.2",
       "2.6.1",
       "2.6.0",
       "2.5.2",
@@ -9327,7 +8916,6 @@
     "mainfile": "yasr.min.js",
     "name": "yasr",
     "versions": [
-      "2.6.1",
       "2.6.0",
       "2.5.5",
       "2.5.4",
@@ -9397,9 +8985,6 @@
     "mainfile": "code-highlighter.min.js",
     "name": "code-highlighter",
     "versions": [
-      "1.3.0",
-      "1.2.1",
-      "1.2.0",
       "1.1.2",
       "1.1.1",
       "1.1.0",
@@ -9447,8 +9032,6 @@
     "mainfile": "jquery.dirtyforms.min.js",
     "name": "jquery.dirtyforms",
     "versions": [
-      "2.0.0-beta00005",
-      "2.0.0-beta00004",
       "2.0.0-beta00003",
       "2.0.0-beta00001",
       "1.2.3",
@@ -9460,13 +9043,9 @@
     ]
   },
   {
-    "mainfile": "DateTimePicker.min.js",
+    "mainfile": "dist/DateTimePicker.min.js",
     "name": "datetimepicker",
     "versions": [
-      "0.1.13",
-      "0.1.12",
-      "0.1.11",
-      "0.1.10",
       "0.1.8"
     ]
   },
@@ -9496,7 +9075,6 @@
     "mainfile": "mclass-min.js",
     "name": "mclass",
     "versions": [
-      "1.4.0",
       "1.3.0",
       "1.2.0",
       "1.1.0",
@@ -9507,8 +9085,6 @@
     "mainfile": "ngStorage.min.js",
     "name": "ngstorage",
     "versions": [
-      "0.3.9",
-      "0.3.8",
       "0.3.7",
       "0.3.6"
     ]
@@ -9517,15 +9093,6 @@
     "mainfile": "simplemde.min.js",
     "name": "simplemde",
     "versions": [
-      "1.7.4",
-      "1.7.3",
-      "1.7.2",
-      "1.7.1",
-      "1.7.0",
-      "1.6.1",
-      "1.6.0",
-      "1.5.1",
-      "1.5.0",
       "1.4.0",
       "1.3.1",
       "1.3.0",
@@ -9561,9 +9128,6 @@
     "mainfile": "vue-validator.min.js",
     "name": "vue.validator",
     "versions": [
-      "1.4.4",
-      "1.4.3",
-      "1.4.2",
       "1.4.1",
       "1.4.0",
       "1.3.3",
@@ -9583,11 +9147,6 @@
     "mainfile": "vue-resource.min.js",
     "name": "vue.resource",
     "versions": [
-      "0.1.16",
-      "0.1.15",
-      "0.1.14",
-      "0.1.13",
-      "0.1.12",
       "0.1.11",
       "0.1.10",
       "0.1.9",
@@ -9603,9 +9162,6 @@
     "mainfile": "reqwest.min.js",
     "name": "reqwest",
     "versions": [
-      "2.0.4",
-      "2.0.3",
-      "2.0.2",
       "2.0.1",
       "2.0.0",
       "1.1.6"
@@ -9647,11 +9203,6 @@
     "mainfile": "autocomplete.jquery.min.js",
     "name": "autocomplete.js",
     "versions": [
-      "0.8.0",
-      "0.7.0",
-      "0.6.0",
-      "0.5.0",
-      "0.4.0",
       "0.3.0",
       "0.2.0",
       "0.1.0"
@@ -9661,8 +9212,6 @@
     "mainfile": "backbone.babysitter.min.js",
     "name": "backbone.babysitter",
     "versions": [
-      "0.1.10",
-      "0.1.9",
       "0.1.8"
     ]
   },
@@ -9691,8 +9240,6 @@
     "mainfile": "spell-checker.min.js",
     "name": "codemirror.spell-checker",
     "versions": [
-      "1.0.5",
-      "1.0.4",
       "1.0.3",
       "1.0.1",
       "1.0.0"
@@ -9709,10 +9256,6 @@
     "mainfile": "cycle.min.js",
     "name": "cyclejs",
     "versions": [
-      "3.1.0",
-      "3.0.0",
-      "2.0.1",
-      "2.0.0",
       "1.0.2",
       "1.0.1",
       "1.0.0"
@@ -9729,7 +9272,6 @@
     "mainfile": "dush.standalone.min.js",
     "name": "dush",
     "versions": [
-      "1.3.0",
       "1.2.0",
       "1.1.0",
       "1.0.0"
@@ -9739,11 +9281,6 @@
     "mainfile": "familysearch-javascript-sdk.min.js",
     "name": "familysearch-javascript-sdk",
     "versions": [
-      "2.1.0",
-      "2.0.6",
-      "2.0.5",
-      "2.0.4",
-      "2.0.2",
       "1.0.0",
       "1.0.0-beta4",
       "1.0.0-beta3"
@@ -9753,11 +9290,6 @@
     "mainfile": "fingerprint2.min.js",
     "name": "fingerprintjs2",
     "versions": [
-      "0.8.0",
-      "0.7.5",
-      "0.7.4",
-      "0.7.3",
-      "0.7.2",
       "0.7.1",
       "0.7.0"
     ]
@@ -9780,9 +9312,6 @@
     "mainfile": "iso8601-localizer.min.js",
     "name": "iso8601-localizer",
     "versions": [
-      "1.2.2",
-      "1.2.1",
-      "1.2.0",
       "1.1.0",
       "1.0.9",
       "1.0.8",
@@ -9800,7 +9329,6 @@
     "mainfile": "jquery.countdown.min.js",
     "name": "jquery.countdown",
     "versions": [
-      "2.1.0",
       "2.0.5",
       "2.0.4"
     ]
@@ -9809,7 +9337,6 @@
     "mainfile": "jquery.responsiveTabs.min.js",
     "name": "jquery.responsive-tabs",
     "versions": [
-      "1.5.0",
       "1.4.5"
     ]
   },
@@ -10510,7 +10037,6 @@
     "mainfile": "jquery.once.min.js",
     "name": "jquery.once",
     "versions": [
-      "2.1.1",
       "2.0.2"
     ]
   },
@@ -10598,7 +10124,6 @@
     "name": "jquery.pickadate.js",
     "versions": [
       "4.0.0-0",
-      "3.5.6",
       "3.5.3",
       "3.5.0",
       "3.4.0",
@@ -10654,7 +10179,6 @@
     "mainfile": "jquery.placeholder.min.js",
     "name": "jquery.placeholder",
     "versions": [
-      "2.1.3",
       "2.1.2",
       "2.1.1",
       "2.1.0",
@@ -10869,7 +10393,6 @@
     "mainfile": "jquery.scrollTo.min.js",
     "name": "jquery.scrollto",
     "versions": [
-      "2.1.2",
       "2.1.1",
       "2.1.0",
       "1.4.14",
@@ -10900,7 +10423,6 @@
     "mainfile": "jquery.serializejson.min.js",
     "name": "jquery.serializejson",
     "versions": [
-      "2.6.1",
       "1.2.3"
     ]
   },
@@ -12135,11 +11657,6 @@
     "mainfile": "kefir.min.js",
     "name": "kefir",
     "versions": [
-      "3.0.0",
-      "3.0.0-rc.0",
-      "2.8.2",
-      "2.8.1",
-      "2.8.0",
       "2.7.2",
       "2.7.1"
     ]
@@ -12651,8 +12168,6 @@
     "mainfile": "material.min.js",
     "name": "material-design-lite",
     "versions": [
-      "1.0.4",
-      "1.0.3",
       "1.0.2",
       "1.0.1",
       "1.0.0"
@@ -12676,12 +12191,6 @@
     "mainfile": "matreshka.min.js",
     "name": "matreshka",
     "versions": [
-      "1.1.1",
-      "1.1.0",
-      "1.1.0-rc3",
-      "1.1.0-rc2",
-      "1.1.0-rc",
-      "1.0.7",
       "1.0.6",
       "1.0.5",
       "1.0.4",
@@ -15393,9 +14902,6 @@
     "mainfile": "tota11y.min.js",
     "name": "tota11y",
     "versions": [
-      "0.1.2",
-      "0.1.1",
-      "0.1.0",
       "0.0.10",
       "0.0.9"
     ]
@@ -16576,6 +16082,7 @@
     "mainfile": "demand.js",
     "name": "qoopido.demand",
     "versions": [
+      "2.0.3",
       "2.0.2",
       "2.0.1",
       "2.0.0",
