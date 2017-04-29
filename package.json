@@ -1,6 +1,6 @@
 {
   "name": "jsdelivr-cdn-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jsDelivr CDN Data for google-cdn",
   "main": "index.js",
   "scripts": {
